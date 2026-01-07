@@ -1,0 +1,13 @@
+Placeholder for attachment image.
+
+The user could not upload the binary image here. To replace this placeholder with the real image, add the image file (JPG/PNG) at:
+
+figures/attachment_poster.jpg
+
+Then run:
+
+    git add figures/attachment_poster.jpg
+    git commit -m "Add attachment poster image"
+    git push
+
+If you want, I can add the image for you if you upload it through the chat file uploader.
