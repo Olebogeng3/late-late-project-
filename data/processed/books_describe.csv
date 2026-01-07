@@ -1,0 +1,12 @@
+,title,price,rating,category,product_id,in_stock,stock_count,description
+count,1000,1000.0,1000.0,1000,1000,1000,1000.0,998
+unique,999,,,50,1000,1,,998
+top,The Star-Touched Queen,,,Default,a897fe39b1053632,True,,"Its hard to imagine a world without A Light in the Attic. This now-classic collection of poetry and drawings from Shel Silverstein celebrates its 20th anniversary with this special edition. Silversteins humorous and creative verse can amuse the dowdiest of readers. Lemon-faced adults and fidgety kids sit still and read these rhythmic words and laugh and smile and love th Its hard to imagine a world without A Light in the Attic. This now-classic collection of poetry and drawings from Shel Silverstein celebrates its 20th anniversary with this special edition. Silversteins humorous and creative verse can amuse the dowdiest of readers. Lemon-faced adults and fidgety kids sit still and read these rhythmic words and laugh and smile and love that Silverstein. Need proof of his genius? RockabyeRockabye baby, in the treetopDont you know a treetopIs no safe place to rock?And who put you up there,And your cradle, too?Baby, I think someone down heresGot it in for you. Shel, you never sounded so good. "
+freq,2,,,152,1,1000,,1
+mean,,35.07035,2.923,,,,8.585,
+std,,14.446689669952764,1.434966943915479,,,,5.654621981153979,
+min,,10.0,1.0,,,,1.0,
+25%,,22.1075,2.0,,,,3.0,
+50%,,35.980000000000004,3.0,,,,7.0,
+75%,,47.457499999999996,4.0,,,,14.0,
+max,,59.99,5.0,,,,22.0,
